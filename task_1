@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL_zIlv0_wWApaABAA_Ibq9vyCcM6d_bYOow&s'); 
+            background-size: cover;
+            background-position: center;
+        }
+
+        h1 {
+            text-align: center;
+            color: red;
+            font-size: 36px;
+        }
+
+        hr {
+            border: 1px solid black;
+        }
+
+        .section-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 30px;
+            padding: 10px;
+        }
+
+        .underline{
+            text-decoration: underline;
+        }
+
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h1>CURRICULUM VITAE</h1>
+
+        <div class="contact-info">
+            <p><strong>Infomax Academy</strong></p>
+            <p><strong>Address:</strong> G.R. Complex Preetam Nagar, Dhoomanganj, Prayagraj, Uttar Pradesh - 211011</p>
+            <p><strong>Mobile:</strong> +91 8874588766</p>
+            <p><strong>Email:</strong> info@infomaxacademy.com</p>
+        </div>
+
+        <hr>
+
+        <div class="section-title">Career Objective</div>
+        <p>To perceive a career in a renowned firm with dedicated efforts and to associate myself with an organization that gives me a chance to update my knowledge.</p>
+
+        <div class="section-title underline">Educational Qualification</div>
+            B.Com (Computer Science) - Osmania University, Sandepani Degree College, Kamareddy - 2009
+            <br/>
+            Intermediate C.E.C - Board of Intermediate Education, Sandepani Jr. College, Kamareddy - 2006
+            <br/>
+            S.S.C - Board of Secondary Education, Triveni High School, Domakonda - 2004
+            <br/>
+        <div class="section-title underline">Computer Skills</div>
+            P.G.D.C.A (Post Graduate Diploma in Computer Application)
+            <br/>
+            A.D.C.A (Advanced Diploma in Computer Application)
+            <br/>
+            D.T.P (Desktop Publisher)
+            <br/>
+            Operating Systems (XP, 2000, 98, and Others)
+    </div>
+</body>
+</html>
